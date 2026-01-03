@@ -32,6 +32,6 @@ A professional UI clone of the **Edabit** landing page, focusing on modern visua
 - **Live Site**: [اضغطي هنا لمشاهدة الموقع مباشرة](sonya-div.github.io)(https://sonya-div.github.io/edabit-clone/)
 - **Screenshots**: *
 
----<img width="1920" height="1080" alt="‏‏لقطة الشاشة (86)" src="https://github.com/user-attachments/assets/6684f234-2dd7-4715-bf73-f25b535cbbca" />
+<img width="1266" height="793" alt="‏‏لقطة الشاشة (86)" src="https://github.com/user-attachments/assets/93602829-132e-4d29-aecf-2e8ca4733cb7" />
 
 Developed by [Sonya-Div](github.com)
