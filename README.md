@@ -35,3 +35,4 @@ A professional UI clone of the **Edabit** landing page, focusing on modern visua
 <img width="1266" height="793" alt="‏‏لقطة الشاشة (86)" src="https://github.com/user-attachments/assets/93602829-132e-4d29-aecf-2e8ca4733cb7" />
 
 Developed by [Sonya-Div](github.com)
+![Visitors](api.visitorbadge.io)
