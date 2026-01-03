@@ -1,4 +1,3 @@
-زززز
 # 🚀 Edabit UI Clone - Modern Design
 
 [English Version Below](#english-version)
